@@ -27,7 +27,7 @@ import module1_Login.LoginTwoPage;
  * @author lakhan_babar
  *
  */
-public class VerifyUserTest2 extends BaseClass
+public class VerifyUserTest007 extends BaseClass
 {
 	LoginOnePage login1;
 	LoginTwoPage login2;
